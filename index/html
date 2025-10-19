@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>З Днем народження, Дімочко 💖</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>З Днем народження, Дімочко 🎉</h1>
+        <p class="text">Натисни, коханий, щоб почати 💕</p>
+        <button onclick="nextPage()">Почати</button>
+    </div>
+    <audio id="bg-music" src="music.mp3"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
